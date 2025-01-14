@@ -1,0 +1,2 @@
+# figurygeometryczne
+Kalkulator figur geometrycznych
